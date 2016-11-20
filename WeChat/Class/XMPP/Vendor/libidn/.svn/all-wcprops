@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Vendor/libidn
+END
+stringprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Vendor/libidn/stringprep.h
+END
+build-libidn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Vendor/libidn/build-libidn.sh
+END
+idn-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Vendor/libidn/idn-int.h
+END

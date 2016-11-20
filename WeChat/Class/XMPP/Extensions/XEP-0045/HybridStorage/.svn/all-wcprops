@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage
+END
+XMPPRoomOccupantHybridMemoryStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomOccupantHybridMemoryStorageObject.m
+END
+XMPPRoomMessageHybridCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomMessageHybridCoreDataStorageObject.m
+END
+XMPPRoomHybridStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomHybridStorage.m
+END
+XMPPRoomHybridStorageProtected.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomHybridStorageProtected.h
+END
+XMPPRoomOccupantHybridMemoryStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomOccupantHybridMemoryStorageObject.h
+END
+XMPPRoomMessageHybridCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomMessageHybridCoreDataStorageObject.h
+END
+XMPPRoomHybridStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/HybridStorage/XMPPRoomHybridStorage.h
+END

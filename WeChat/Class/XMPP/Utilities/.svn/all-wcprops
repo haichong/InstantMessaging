@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities
+END
+RFImageToDataTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/RFImageToDataTransformer.h
+END
+XMPPIDTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPIDTracker.h
+END
+GCDMulticastDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/GCDMulticastDelegate.h
+END
+RFImageToDataTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/RFImageToDataTransformer.m
+END
+XMPPSRVResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPSRVResolver.h
+END
+XMPPIDTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPIDTracker.m
+END
+XMPPStringPrep.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPStringPrep.h
+END
+DDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/DDList.h
+END
+GCDMulticastDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/GCDMulticastDelegate.m
+END
+XMPPSRVResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPSRVResolver.m
+END
+XMPPStringPrep.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/XMPPStringPrep.m
+END
+DDList.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Utilities/DDList.m
+END

@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6D9E02A9556508E7EF8D0431875E783D64D1629",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "42e7259e-d54b-1147-ad63-b11d63c742f4++8562" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6D9E02A9556508E7EF8D0431875E783D64D1629" : 9223372036854775807,
+    "42e7259e-d54b-1147-ad63-b11d63c742f4++8562" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3142A18F-99D0-43B9-BFF0-1FDCB6945B9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6D9E02A9556508E7EF8D0431875E783D64D1629" : "WeChat\/",
+    "42e7259e-d54b-1147-ad63-b11d63c742f4++8562" : "WeChat\/WeChat\/Class\/XMPP\/Core\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeChat.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.18.10.31\/svn\/camtalk-yanfanzhongxin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42e7259e-d54b-1147-ad63-b11d63c742f4++8562"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haichong\/WeChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6D9E02A9556508E7EF8D0431875E783D64D1629"
+    }
+  ]
+}

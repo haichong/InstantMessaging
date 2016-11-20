@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage
+END
+XMPPRoomCoreDataStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomCoreDataStorage.h
+END
+XMPPRoomMessageCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomMessageCoreDataStorageObject.m
+END
+XMPPRoomOccupantCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomOccupantCoreDataStorageObject.h
+END
+XMPPRoomCoreDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomCoreDataStorage.m
+END
+XMPPRoomOccupantCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomOccupantCoreDataStorageObject.m
+END
+XMPPRoomMessageCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0045/CoreDataStorage/XMPPRoomMessageCoreDataStorageObject.h
+END

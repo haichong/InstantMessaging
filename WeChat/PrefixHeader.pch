@@ -1,0 +1,31 @@
+//
+//  PrefixHeader.pch
+//  WeChat
+//
+//  Created by FuHang on 16/10/21.
+//  Copyright © 2016年 付航. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// 登录
+#define User @"User"
+#define Pwd @"Pwd"
+#define IsLogin @"IsLogin"
+// 注册
+#define RegisterUser @"RegisterUser"
+#define RegistPwd @"RegistPwd"
+
+
+#import "AppDelegate.h"
+#import "XMPPFramework.h"
+#import "MBProgressHUD+HM.h"
+#import "XMPPTool.h"
+
+#ifdef DEBUG
+#define WCLog(...) NSLog(@"%s %d %@",__func__,__LINE__,[NSString stringWithFormat:__VA_ARGS__])
+#else
+#define WCLog(...)
+#endif
+#endif /* PrefixHeader_pch */

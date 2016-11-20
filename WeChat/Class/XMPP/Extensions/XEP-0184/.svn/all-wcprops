@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0184
+END
+XMPPMessageDeliveryReceipts.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0184/XMPPMessageDeliveryReceipts.h
+END
+XMPPMessage+XEP_0184.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0184/XMPPMessage+XEP_0184.h
+END
+XMPPMessageDeliveryReceipts.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0184/XMPPMessageDeliveryReceipts.m
+END
+XMPPMessage+XEP_0184.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/camtalk-yanfanzhongxin/!svn/ver/2/branches/BussinessLink/vendor/xmpp/Extensions/XEP-0184/XMPPMessage+XEP_0184.m
+END
