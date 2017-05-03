@@ -37,9 +37,9 @@
 		47B8D8091DC1E20200560F37 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47B8D8081DC1E20200560F37 /* ChatViewController.m */; };
 		47B8D80D1DC1E29600560F37 /* InputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 47B8D80C1DC1E29600560F37 /* InputView.m */; };
 		47B8D80F1DC1E2A100560F37 /* InputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 47B8D80E1DC1E2A100560F37 /* InputView.xib */; };
+		47CF87BC1EB8337800785413 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 47CF87BB1EB8337800785413 /* AppDelegate.m */; };
 		47D810C41DC04D9D00FC0A21 /* PersonInfoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D810C31DC04D9D00FC0A21 /* PersonInfoTableViewController.m */; };
 		47D926E31DB9C12B0081571A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D926E21DB9C12B0081571A /* main.m */; };
-		47D926E61DB9C12B0081571A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D926E51DB9C12B0081571A /* AppDelegate.m */; };
 		47D926E91DB9C12B0081571A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D926E81DB9C12B0081571A /* ViewController.m */; };
 		47D926EC1DB9C12B0081571A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D926EA1DB9C12B0081571A /* Main.storyboard */; };
 		47D926F11DB9C12B0081571A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47D926EF1DB9C12B0081571A /* LaunchScreen.storyboard */; };
@@ -261,12 +261,12 @@
 		47B8D80B1DC1E29600560F37 /* InputView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InputView.h; sourceTree = "<group>"; };
 		47B8D80C1DC1E29600560F37 /* InputView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InputView.m; sourceTree = "<group>"; };
 		47B8D80E1DC1E2A100560F37 /* InputView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InputView.xib; sourceTree = "<group>"; };
+		47CF87BA1EB8337800785413 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		47CF87BB1EB8337800785413 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		47D810C21DC04D9D00FC0A21 /* PersonInfoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonInfoTableViewController.h; sourceTree = "<group>"; };
 		47D810C31DC04D9D00FC0A21 /* PersonInfoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonInfoTableViewController.m; sourceTree = "<group>"; };
 		47D926DE1DB9C12B0081571A /* WeChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47D926E21DB9C12B0081571A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		47D926E41DB9C12B0081571A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../../AppDelegate.h; sourceTree = "<group>"; };
-		47D926E51DB9C12B0081571A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ../../AppDelegate.m; sourceTree = "<group>"; };
 		47D926E71DB9C12B0081571A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		47D926E81DB9C12B0081571A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		47D926EB1DB9C12B0081571A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -1575,8 +1575,8 @@
 		47D928ED1DB9C2D50081571A /* Other */ = {
 			isa = PBXGroup;
 			children = (
-				47D926E41DB9C12B0081571A /* AppDelegate.h */,
-				47D926E51DB9C12B0081571A /* AppDelegate.m */,
+				47CF87BA1EB8337800785413 /* AppDelegate.h */,
+				47CF87BB1EB8337800785413 /* AppDelegate.m */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -1762,6 +1762,7 @@
 			files = (
 				473FC3FE1DBB06FA004A57A7 /* LoginViewController.m in Sources */,
 				47D928F71DB9ECAB0081571A /* OtherLoginViewController.m in Sources */,
+				47CF87BC1EB8337800785413 /* AppDelegate.m in Sources */,
 				47D928C61DB9C1A40081571A /* XEP_0223.m in Sources */,
 				47D928971DB9C1A40081571A /* XMPPvCard.xcdatamodeld in Sources */,
 				47D928701DB9C1A40081571A /* XMPPModule.m in Sources */,
@@ -1792,7 +1793,6 @@
 				47D926E91DB9C12B0081571A /* ViewController.m in Sources */,
 				47D928B21DB9C1A40081571A /* XMPPCapabilitiesCoreDataStorage.m in Sources */,
 				47D9289D1DB9C1A40081571A /* XMPPvCardTempAdr.m in Sources */,
-				47D926E61DB9C12B0081571A /* AppDelegate.m in Sources */,
 				47D928871DB9C1A40081571A /* XMPPLastActivity.m in Sources */,
 				47D928B41DB9C1A40081571A /* XMPPCapsResourceCoreDataStorageObject.m in Sources */,
 				474421DE1DC3408400347C36 /* SDImageCache.m in Sources */,

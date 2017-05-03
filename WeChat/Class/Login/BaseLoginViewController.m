@@ -22,6 +22,7 @@
 -(void)login {
     [self.view endEditing:YES];
     [MBProgressHUD showMessage:@"正在登录中..." toView:self.view];
+    
     XMPPTool *tool = [XMPPTool shareXMPPTool];
     tool.registerOperation = NO;
     __weak typeof(self) weakSelf = self;
